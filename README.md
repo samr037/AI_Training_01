@@ -8,3 +8,5 @@ Learning project, testing OpenAI APIs
 
 
 ## Lab 1 : Story Generator
+
+## Side project 1 : Sentiment analysis
