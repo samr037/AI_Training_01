@@ -5,3 +5,6 @@ Learning project, testing OpenAI APIs
 
 
 ## Project 2 : Translator
+
+
+## Lab 1 : Story Generator
