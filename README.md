@@ -19,7 +19,8 @@ py -m pip install -r .\requirements.txt
 ## Project 4 : AI Research Assistant (KodeKloud)
 ## Side project 1 : Sentiment analysis
 ## Side project 2 : Text generator to speech
-## Side project 2 : Speech to text
+## Side project 3 : Speech to text
+## Side project 4 : Function calling
 
 
 # Demos
@@ -27,6 +28,8 @@ py -m pip install -r .\requirements.txt
 
 # Labs
 ## Lab 1 : Story Generator
+## Lab 2 : Batch processing
+
 
 # References 
 
