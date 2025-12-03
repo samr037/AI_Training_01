@@ -12,22 +12,18 @@ py -m pip install -r .\requirements.txt
 ### Install dependancies
 
 
+# Projects 
 ## Project 1 : Recipe maker (KodeKloud)
-
-
 ## Project 2 : Translator
-
-
-## Lab 1 : Story Generator
-
+## Project 3 : AI Research Assistant (KodeKloud)
+## Project 4 : AI Research Assistant (KodeKloud)
 ## Side project 1 : Sentiment analysis
 
+# Demos
+## Demo 1 : Embeddings
 
-## Project 3 : AI Research Assistant (KodeKloud)
-
-
-## Project 4 : AI Research Assistant (KodeKloud)
-
+# Labs
+## Lab 1 : Story Generator
 
 # References 
 

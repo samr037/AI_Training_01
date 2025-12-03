@@ -12,7 +12,7 @@ goals = []
 # Create a way to add all of our fitness goals to a list
 
 while True:
-    goal = input("What are your health goals? Enter done once complete:")
+    goal = input("What are your health goals? Enter done once complete: ")
     if goal.lower() == "done":
         break
     
@@ -24,11 +24,11 @@ def trainer(goals, df):
         messages.append({"role":"user","content":goal})
     messages.extend([
         {"role":"system","content":"Direct. Point form"},
-        {"role":"assistant","content":f"You are a health expert. The person you are responding to is an accountant. Be technical an specific. reference this data {df} in your response."}
+        {"role":"assistant","content":f"You are a health expert. The person you are responding to is an accountant. Be specific to their role. Be technical an specific. reference this data {df} in your response and provide solutions to these goals"}
     ])
 
     response = client.chat.completions.create(
-        model = "gpt-4",
+        model = "gpt-4o",
         messages = messages,
         temperature = 0.8
     )
