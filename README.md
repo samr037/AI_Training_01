@@ -7,6 +7,7 @@ py -m venv .\venv\
 .\venv\Scripts\activate.ps1
 py -m pip install -r .\requirements.txt
 
+### Provide data into .env files
 
 ### Install dependancies
 
@@ -23,3 +24,11 @@ py -m pip install -r .\requirements.txt
 
 
 ## Project 3 : AI Research Assistant (KodeKloud)
+
+
+## Project 4 : AI Research Assistant (KodeKloud)
+
+
+# References 
+
+*All datasets are from Kaggle*
