@@ -21,7 +21,8 @@ py -m pip install -r .\requirements.txt
 ## Side project 2 : Text generator to speech
 ## Side project 3 : Speech to text
 ## Side project 4 : Function calling
-
+## Side project 5 : Image Generation
+## Side project 6 : Image caption
 
 # Demos
 ## Demo 1 : Embeddings
